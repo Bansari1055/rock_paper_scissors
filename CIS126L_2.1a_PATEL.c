@@ -1,6 +1,5 @@
-/* Class: CIS126L
+/* 
 NAME: Bansari Patel
-Assignment: Inclass activity2.1a
 
 Create a rock paper scissors game demonstrating the difference structures learned in week 1 and 2\
 
